@@ -4,7 +4,7 @@ import React from "react";
 const About = () => {
     return (
         <>
-            <Herosection title={"About Page"} imageUrl={"/about1.svg"}/>
+            <Herosection title={"OUR STORY"} imageUrl={"/about1.svg"}/>
         </>
     );
 };
